@@ -2,12 +2,13 @@
 ## In this project we will show how to scrape information from multiple pages from website.
 
 Extracted Information:
-This code will extract the below information using Python Code and will save the output in CSV file:
 - Job title
 - Company Name
 - Location
 - Job Type
 - Job url
+
+## This code will extract the below information using Python Code and will save the output in CSV file:
 
 # Code	
 ## load needed libraries
